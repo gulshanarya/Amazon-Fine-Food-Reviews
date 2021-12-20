@@ -1,4 +1,3 @@
-# Amazon-Fine-Food-Reviews
 # How to use this repository:
   Install the all used libraray with the specified version in the version.txt file.
   Look at file 'Amazon Fine Food Reviews.ipynb' for detail step by step work of traning the ML model with detail explanation.
